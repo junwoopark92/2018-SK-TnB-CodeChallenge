@@ -1,5 +1,8 @@
 
-## final result
+## Final result
+### 1차 30/280
+### 2차 10/30
+
 ![최종결과](https://github.com/junwoopark92/2018-SK-TnB-CodeChallenge/blob/master/asset/%C2%A0%EC%B5%9C%EC%A2%85%EC%88%9C%EC%9C%84.png?raw=true)
 
 ## history
