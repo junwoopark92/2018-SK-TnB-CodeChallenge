@@ -1,8 +1,8 @@
-## history
 
 ## final result
-![최종결과](https://steemitimages.com/DQmeo.../image.png)
+![최종결과](https://github.com/junwoopark92/2018-SK-TnB-CodeChallenge/blob/master/asset/%C2%A0%EC%B5%9C%EC%A2%85%EC%88%9C%EC%9C%84.png?raw=true)
 
+## history
 
 ### 0. baselien model
 기간동안 시청이력이 많은 순서로 50개의 영화를 동일하게 추천
