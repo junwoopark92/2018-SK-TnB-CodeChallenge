@@ -25,3 +25,20 @@ lstm의 output을 onehot이 아닌 word2vec의 벡터를 예측하도록 한후 
 
 ### 3. lstm model + add movie release month feature
 기존 lstm model에 movie의 release month를 추가
+
+
+## other team
+1. bidirectional lstm, attention model, feature별로 rnn 따로 레이어를 만들어 concat
+sigmoid, cross entropy
+영화2vec
+네이버 영화 데이터 크롤링
+
+2. 
+item2vec, handcraft feature => bidrectional lstm => 8000개 영화
+item2vec만 30.8, handcraft feature 추가 31.9
+
+3. 
+seq2seq model 사용 -> 학습하는데 2시간
+learning to rank -> 학습하는데 2분
+loss 설게시 k/50 씩 더해서 했다고함
+시청횟수 적은애들 제거함
